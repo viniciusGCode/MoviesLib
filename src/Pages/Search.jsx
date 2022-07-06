@@ -3,8 +3,6 @@ import { useState, useEffect } from 'react';
 import { useSearchParams } from 'react-router-dom';
 import MovieCard from "../components/MovieCard/MovieCard";
 
-import "../components/MovieCard/MovieCard.css"
-
 
 
 
