@@ -13,4 +13,5 @@
 
 ## 🔖 Descrição
   Aplicação feita em React com o proposito de estudar os Hooks, States e o consumo de API diretamente pelo javascript com uso do fetch
+
  
