@@ -13,5 +13,7 @@
 
 ## 🔖 Descrição
   Aplicação feita em React com o proposito de estudar os Hooks, States e o consumo de API diretamente pelo javascript com uso do fetch
+  
+  [Link do deploy da aplicação](https://ut0p1c.github.io/MoviesLib/)
 
  
