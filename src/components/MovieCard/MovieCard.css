@@ -1,0 +1,43 @@
+.movieCard{
+	width: 30%;
+	color: #fff;
+	margin-bottom: 2.5rem;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	background-color: #111;
+	padding: 1rem;
+}
+
+.movieCard img {
+	max-width: 100%;
+}
+
+.movieCard img, .movieCard p, .movieCard h2 {
+	margin-bottom: 1rem;
+}
+
+.movieCard svg {
+	color: #f7d354;
+}
+
+.movieCard a {
+	background-color: #ff0000;
+	border: 2px solid #ff0000;
+	border-radius: 7px;
+	color: #000;
+	padding: 1rem .5rem;
+	align-items: center;
+	transition: .2s;
+	text-align: center;
+	font-weight: bold;
+}
+
+.movieCard a:hover{
+	background-color: transparent;
+	color: #ff0000;
+}
+
+.query-text {
+	color: #ff0000;
+}
