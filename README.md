@@ -6,7 +6,7 @@
 ## 💻 O que é
   Um projeto de um site de filmes feito em React utilizando a [API do TMDB](https://developers.themoviedb.org/3)
 
-##🔧 Tecnologias utilizadas
+## 🔧 Tecnologias utilizadas
   Nesse projeto utilizei as bibliotecas react-router-dom e react-icons apenas
 
 ## 🔖 Descrição
